@@ -247,6 +247,7 @@ List of tutorial participants
 - Asmita Mittal (MIT)
 - Mathilda Kitzmann (Stanford)
 - Jamie Park (University of California, San Diego)
+- Carlie Crowther (University of Oregon)
 
 
 Checking for and creating issues on Github
